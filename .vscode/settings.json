@@ -5,6 +5,7 @@
     "julia.executablePath": "C:\\\\Users\\\\obsfe.DESKTOP-KBPC6IC\\\\AppData\\Local\\\\Programs\\\\Julia-1.9.0`\\\\bin",
     "cSpell.enableFiletypes": [
         "apex",
+        "bat",
         "csv (pipe)",
         "csv (semicolon)",
         "db",
@@ -14,5 +15,9 @@
         "juliamarkdown",
         "pip-requirements",
         "xml"
-    ]
+    ],
+    "json.maxItemsComputed": 50000,
+    "docwriter.style": "Auto-detect",
+    "docwriter.progress.trackFunctions": true,
+    "docwriter.progress.trackMethods": false
 }
